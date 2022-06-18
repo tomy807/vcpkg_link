@@ -36,4 +36,4 @@ set(CMAKE_PREFIX_PATH "/home/tomy807/vcpkg/installed/x64-linux/share")
 
 ## 6) easy to use libraries
 
-직접 수동으로 라이브러리를 설치하고 관리하는 것보다 자동으로 빌드해주는것이 편함 하지만 
+직접 수동으로 라이브러리를 설치하고 관리하는 것보다 자동으로 빌드해주는것이 편함
